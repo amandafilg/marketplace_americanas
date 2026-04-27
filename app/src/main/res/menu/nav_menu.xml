@@ -5,29 +5,29 @@
     <group
         android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_prime"
-            android:icon="@drawable/iccart"
-            android:title="Prime"/>
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/icsports"
+            android:title="Esportes"/>
         <item
             android:id="@+id/nav_fashion"
             android:icon="@drawable/icfashion"
-            android:title="Moda"/>
+            android:title="Vestimenta"/>
         <item
             android:id="@+id/nav_eletronic"
             android:icon="@drawable/iceletronics"
-            android:title="Eletrônicos"/>
+            android:title="Tecnologia"/>
         <item
             android:id="@+id/nav_food"
             android:icon="@drawable/icfood"
-            android:title="Alimentos"/>
+            android:title="Comida"/>
         <item
             android:id="@+id/nav_beauty"
             android:icon="@drawable/icbeauty"
-            android:title="Beleza"/>
+            android:title="Estética"/>
         <item
             android:id="@+id/nav_furniture"
             android:icon="@drawable/icfurniture"
-            android:title="Móveis"/>
+            android:title="Casa"/>
     </group>
 
 </menu>
